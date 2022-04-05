@@ -1,2 +1,2 @@
 # fisrttest
-vinu
+automation testting
